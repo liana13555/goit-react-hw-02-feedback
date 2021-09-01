@@ -1,7 +1,4 @@
-.FeedBack {
-}
-
-.FeedBack__button {
+.FeedbackBtn {
   margin-right: 15px;
   padding: 10px;
 
@@ -9,4 +6,5 @@
   font-weight: 700;
   background-color: rgb(178, 207, 235);
   cursor: pointer;
+  text-transform: capitalize;
 }
